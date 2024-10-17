@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arshia-hr
+- 👋 Hi, I’m @arshia-hagh
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arshia-hr&theme=merko&show_icons=true)
 
